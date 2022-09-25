@@ -2,7 +2,7 @@
 
 ## Kelompok
 1. 205150300111043 MUKHAMMAD FADHILA IKHSANI
-2. 205150301111033 Eko Prastowo Aji
+2. 205150301111033 EKO PRASTOWO AJI
 
 Pada soal ini, anda diminta untuk membuat mekanisme sinkronisasi data pasien antar rumah sakit dengan menggunakan metode komunikasi antar entitas : RPC dan Message Oriented Middleware berjenis Publish-Subscribe.
 
